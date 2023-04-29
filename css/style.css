@@ -1,0 +1,184 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300&family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+
+nav {
+  background-color: rgb(0, 65, 87);
+  opacity: 0.89;
+}
+ 
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding-right: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300; 
+}
+
+h2{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 200;
+  font-size: 2.5em;
+  padding-top: 30px;
+  color: rgb(0, 65, 87);
+}
+
+h3{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 200;
+  color: rgb(0, 65, 87);
+  font-size: 1.5rem;
+}
+  h5{
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 1.3rem;
+    color: rgb(0, 65, 87);
+    text-align: center;
+    padding-bottom: 20px;
+  }
+    h6{
+      font-family: 'Roboto', 'sans-serif';
+      font-size: 1.2rem;
+      color: rgb(0, 65, 87);
+      text-align: center;
+    
+    }
+    
+    h7 p{
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.5rem;
+        padding: 30px;  
+    }
+    
+    h10{
+      font-family: 'Lexend Deca', sans-serif;
+      font-weight: 200;
+      font-size: 2.5em;
+      padding-top: 30px;
+      color: rgb(0, 65, 87);
+    
+      
+    }
+.introduccion{
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.3rem;
+  padding: 30px;
+}
+
+.btn-blue{
+background-color: rgb(0, 65, 87); 
+color: white;
+}
+
+  .btn-white{
+  background-color: white;
+  color: rgb(0, 65, 87); 
+}
+    .contacto{
+      background-color: #d6d6d6;
+        padding: 70px 60px;
+        margin-bottom: 30px;
+        margin-top: 30px; 
+    }
+    .grid-container{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-rows: 1fr;
+      color: rgb(0, 65, 87); 
+      place-items: center;
+      padding: 30px 0;
+}
+
+      .item{
+         font-family: 'Lexend Deca', sans-serif;
+         font-weight: 200;
+         font-size: 1.9rem;
+         color: rgb(0, 65, 87);
+         text-align: center;   
+}
+          .indications{
+            font-family: 'Lexend Deca', sans-serif;
+         font-weight: 200;
+         font-size: 1.5rem;
+         color: rgb(0, 65, 87);
+         text-align: center;
+         text-decoration: solid;
+          }
+            .columna-izquierda{
+              font-family: 'Lexend Deca', sans-serif;
+         font-weight: 200;
+         font-size: 2.5rem;
+         color: rgb(0, 65, 87);
+         text-align: center;
+         align-items: center;
+         text-decoration: solid;
+         padding: 60px 0;
+  
+            }
+
+            .columna-derecha{
+              text-align: center;
+              text-decoration: none;
+              font-size: 1.5rem;
+              padding: 30px 40px;
+            }
+            .titulo{
+                font-family: 'Lexend Deca', sans-serif;
+                font-size: 2rem;
+                color: rgb(0, 65, 87);
+                text-decoration: solid;
+                font-weight: 300;
+              
+            }
+            .card-dr{
+              padding: 30px;
+              margin: 30px;
+              background-color: #d6d6d6;
+            }
+            .card-dra{
+              padding: 30px;
+              margin: 30px;
+              background-color: #d6d6d6;
+            }
+            .card-texto{
+              font-family: 'Roboto', 'sans serif';
+              font-size: 1.2rem;
+              color: rgb(0, 65, 87);
+              text-align: left;
+              padding-top: 20px;
+            }
+            .card-subtitulo{
+              font-family: 'Roboto', 'sans serif';
+              font-size: 1.2rem;
+              color: rgb(86, 86, 86);
+            }
+            
+
+.footer-sgv{
+  color: rgb(0, 65, 87);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px 0;
+  background-color: #6d6a6a;
+
+}
+.bi-facebook{
+  fill:  rgb(186, 186, 186);
+}
+.bi-instagram{
+  fill:  rgb(186, 186, 186);
+}
+.bi-linkedin{
+  fill:  rgb(186, 186, 186);
+}
+#texto{
+  display: inline-block;
+  vertical-align: top;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 200;
+  color: rgb(191, 191, 191);
+  font-size: 1.8rem;
+  padding: 0 20px;
+}
