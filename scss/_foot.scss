@@ -1,0 +1,23 @@
+footer{
+    .footer-sgv{
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        padding: 30px 30px;
+        background-color:$tertiaryColor;
+    
+        .bi-facebook{
+            fill: $forthColor;
+          }
+          .bi-instagram{
+            fill: $forthColor;
+          }
+          .bi-linkedin{
+            fill:  $forthColor;
+          }
+        
+      }
+
+      
+}
+

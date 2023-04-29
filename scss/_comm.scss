@@ -1,0 +1,24 @@
+h2{
+    font-family: $secondaryFont;
+    font-weight: $textMed;
+    font-size: $textLg;
+    padding-top: 30px;
+    color: $mainColor;
+  }
+  
+  h3{
+    font-family: $secondaryFont;
+    font-weight: $textMed;
+    color:$mainColor;
+    font-size: $textSm;
+  }
+  
+  h5,
+  h6 {
+    font-family: $mainFont;
+    font-size: $testTit;
+    color: $mainColor;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  

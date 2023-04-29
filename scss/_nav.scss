@@ -1,0 +1,51 @@
+.navbar{ 
+    background-color: $mainColor;
+            .logo-container {
+                display: flex;
+                max-width: 100px;
+                height: auto;
+                text-align: center;
+                flex-direction: row;
+                align-items: center;
+                .logo {
+                    margin-right: 40px;
+                    width: 100%;
+                }
+                .texto{
+                    display: inline-block;
+                    vertical-align: center;
+                    font-family: $secondaryFont;
+                    font-weight:$textMed; 
+                    color: $forthColor;
+                    font-size:$testMd;
+                    padding: 0 20px;
+                    text-align: left;
+
+                    @media screen and (max-width: 480px) {
+        
+                        .texto {
+                        font-size: 1rem;
+                        }
+                    }
+                    
+                }
+            }
+                    ul{
+                            li{
+                                a{
+                                    color:$keyColor ;
+                                    text-decoration: none;
+                                    font-family: $mainFont;
+                                    font-size:$textSm ;
+                    }
+                }
+            }
+        form{
+            .btn-white{
+                background-color: $keyColor;
+                color: $mainColor; 
+              }
+              
+        }
+        }
+

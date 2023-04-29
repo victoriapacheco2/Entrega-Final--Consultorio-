@@ -1,0 +1,60 @@
+
+    .columna-izquierda{
+        font-family: $secondaryFont;
+        font-weight: $textMed;
+        font-size: $textLg;
+        color: $mainColor;
+        text-align: center;
+        align-items: center;
+        text-decoration: solid;
+        padding: 60px 0;
+        
+          }
+        
+    .columna-derecha{
+            text-align: center;
+            text-decoration: none;
+            font-size: $textSm;
+            padding: 30px 40px;
+          }
+    .card-dr{
+            padding: 30px;
+            margin: 30px;
+            background-color:$secondaryColor;
+
+            .titulo{
+                font-family: $secondaryFont;
+                font-size: $textXm;
+                color:$mainColor;
+                text-decoration: solid;
+                font-weight: $textbold;
+              
+            }
+            .card-subtitulo{
+                font-family: $mainFont;
+                font-size: 1.2rem;
+                color: $tertiaryColor;
+              }
+              
+            .card-texto{
+                font-family: $mainFont;
+                font-size: 1.2rem;
+                color:$mainColor;
+                text-align: left;
+                padding-top: 20px;
+            }
+
+          }
+    .card-dra{
+            padding: 30px;
+            margin: 30px;
+            background-color:$secondaryColor;
+          }
+
+
+
+ 
+
+  
+
+

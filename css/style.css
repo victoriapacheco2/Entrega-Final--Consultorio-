@@ -74,30 +74,23 @@ h5{
 
 h6{
   font-family: 'Roboto', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: rgb(0, 65, 87);
   text-align: center;
 }
 
-h7 p{
+/* h7 p{
   text-align: center;
   text-decoration: none;
   font-size: 1.5rem;
   padding: 30px;  
-}
+} */
+  
 
-h10{
-  font-family: 'Lexend Deca', sans-serif;
-  font-weight: 200;
-  font-size: 2.5em;
-  padding-top: 30px;
-  color: rgb(0, 65, 87);
-}
-
-.intro {
+.introduccion {
   text-align: center;
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   padding: 30px;
 }
 
@@ -111,7 +104,7 @@ h10{
   color: rgb(0, 65, 87); 
 }
 
-.contact {
+.contacto {
   background-color: #d6d6d6;
   padding: 70px 60px;
   margin-bottom: 30px;
@@ -192,21 +185,21 @@ h10{
             }
             
 
-.footer-sgv{
-  display: flex;
- align-items: center;
- justify-items: center;
-  padding: 30px 30px;
-  background-color: #6d6a6a;
+                .footer-sgv{
+                  display: flex;
+                align-items: center;
+                justify-items: center;
+                  padding: 30px 30px;
+                  background-color: #6d6a6a;
 
-}
-.bi-facebook{
-  fill:  rgb(186, 186, 186);
-}
-.bi-instagram{
-  fill:  rgb(186, 186, 186);
-}
-.bi-linkedin{
-  fill:  rgb(186, 186, 186);
-}
+                }
+                .bi-facebook{
+                  fill:  rgb(186, 186, 186);
+                }
+                .bi-instagram{
+                  fill:  rgb(186, 186, 186);
+                }
+                .bi-linkedin{
+                  fill:  rgb(186, 186, 186);
+                }
 
