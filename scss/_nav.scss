@@ -17,15 +17,15 @@
                     font-family: $secondaryFont;
                     font-weight:$textMed; 
                     color: $forthColor;
-                    font-size:$testMd;
+                    font-size:$textMd;
                     padding: 0 20px;
                     text-align: left;
 
                     @media screen and (max-width: 480px) {
         
-                        .texto {
+                       
                         font-size: 1rem;
-                        }
+                        
                     }
                     
                 }
@@ -37,6 +37,7 @@
                                     text-decoration: none;
                                     font-family: $mainFont;
                                     font-size:$textSm ;
+                                    padding: 30px;
                     }
                 }
             }
