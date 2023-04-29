@@ -19,8 +19,29 @@ main{
         color: $mainColor; 
         place-items: center;
         padding: 30px 0;
-      }
+
+        .item{
+          font-family: $secondaryFont;
+          font-weight: $textMed;
+          font-size: $textMd;
+          color: $mainColor;
+          text-align: center;   
+
+          
+               }
+       }
+
+      .card {
+        .btn-blue{
+          background-color:$mainColor; 
+          color: $keycolor;
+        }
+          
+        }
+
+
+  }
       
       
-}
+    
 
